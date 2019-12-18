@@ -1,0 +1,10 @@
+body{
+  background: rgb(189,102,98);
+  background: radial-gradient(circle, rgba(189,102,98,1) 0%, rgba(34,38,55,1) 100%);
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
